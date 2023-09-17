@@ -19,7 +19,7 @@ h1 {
 }
 .sect-1, .sect-2, .sect-3, header{
   height: auto;
-  padding: 15px 0;
+  padding: 20px 0;
 }
 header {
   height: 10vh;
@@ -78,6 +78,7 @@ header ul li:hover {
   text-align: center;
   font-size: 13px;
   width: 80%;
+  margin: 0 auto;
 }
 .sect-2 {
   background-color: gray;
@@ -109,7 +110,7 @@ header ul li:hover {
   font-size: 13px;
   padding-right: 20px;
 }
-.sect-2 .colaboration p {
+.sect-2 .colaboration p{
   text-align: right;
   font-size: 20px;
   font-family: 700;
@@ -172,14 +173,14 @@ footer .copyright {
     
   }
   .sect-1 div{
-    width: 50%;
+    width: 70%;
     text-align: center;
     padding-left: 30px;
   }
   .sect-1 h1 {
     font-size: 25px;
     margin: 0;
-    text-align: left;
+    text-align: center;
   }
   h2 {
     font-size: 25px;
